@@ -1,0 +1,11 @@
+{
+  "name": "AARAMBH – Scheme Discovery & Guided Application",
+  "short_name": "AARAMBH",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f766e",
+  "description": "Offline-first government-finance scheme discovery, partner routing and application tracking prototype.",
+  "icons": []
+}
